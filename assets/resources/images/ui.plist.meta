@@ -145,12 +145,12 @@
       ],
       "subMetas": {}
     },
-    "bcc10": {
+    "ac343": {
       "importer": "sprite-frame",
-      "uuid": "f3993682-cbfc-45ed-9b10-a2110d50c07d@bcc10",
+      "uuid": "f3993682-cbfc-45ed-9b10-a2110d50c07d@ac343",
       "displayName": "",
-      "id": "bcc10",
-      "name": "menu_an",
+      "id": "ac343",
+      "name": "btn_start",
       "userData": {
         "trimType": "auto",
         "trimThreshold": 1,
@@ -191,12 +191,12 @@
       ],
       "subMetas": {}
     },
-    "17b86": {
+    "9d68c": {
       "importer": "sprite-frame",
-      "uuid": "f3993682-cbfc-45ed-9b10-a2110d50c07d@17b86",
+      "uuid": "f3993682-cbfc-45ed-9b10-a2110d50c07d@9d68c",
       "displayName": "",
-      "id": "17b86",
-      "name": "menu_ph",
+      "id": "9d68c",
+      "name": "btn_rank",
       "userData": {
         "trimType": "auto",
         "trimThreshold": 1,
@@ -237,12 +237,12 @@
       ],
       "subMetas": {}
     },
-    "99b1d": {
+    "102cc": {
       "importer": "sprite-frame",
-      "uuid": "f3993682-cbfc-45ed-9b10-a2110d50c07d@99b1d",
+      "uuid": "f3993682-cbfc-45ed-9b10-a2110d50c07d@102cc",
       "displayName": "",
-      "id": "99b1d",
-      "name": "menu_top",
+      "id": "102cc",
+      "name": "game_title",
       "userData": {
         "trimType": "auto",
         "trimThreshold": 1,
